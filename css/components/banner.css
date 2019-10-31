@@ -1,0 +1,24 @@
+.banner {
+  height: 200px;
+  background-image: url(https://image.freepik.com/free-photo/top-view-arrangement-with-honey-bottle-flower_23-2148295993.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner p {
+  opacity: .7;
+  font-size: 20px;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #727ab1;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #4F507F;
+}

@@ -1,0 +1,30 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 0, 20px;
+  border: 1px solid rgb(230,230,230);
+  background-color: white;
+}
+
+.card img {
+  margin: 0;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
