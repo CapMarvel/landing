@@ -2,13 +2,19 @@
   text-align: center;
   padding: 60px;
   background-color: #4f507f;
+  color: white;
 }
 
 .footer p {
-  font-size: 18px;
+  font-size: 12px;
+}
+
+.footer a {
+  color: white;
 }
 
 .links {
   display: block;
   font-size: xx-large;
+  color: white;
 }
